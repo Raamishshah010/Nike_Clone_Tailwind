@@ -10,6 +10,10 @@
     scroll-behavior: smooth;
 }
 
+body{
+    zoom: 85%;
+}
+
 @layer components {
     .max-container {
         max-width: 1440px;
