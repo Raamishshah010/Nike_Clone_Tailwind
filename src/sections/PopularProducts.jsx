@@ -23,7 +23,8 @@ const PopularProducts = () => {
             sm:grid-cols-2
             grid-cols-1
             sm:gap-4 gap-14
-            min-sm:place-items-center
+            max-sm:place-items-center
+            justify-center
             '>
 
                 {
